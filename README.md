@@ -11,6 +11,7 @@ DiscordのVCに入退出したときに、ログを吐きます。
 ## 詳細
 
 詳細な記事をQiitaに投稿しました！
+
 https://qiita.com/LabPixel/items/0995f51074a535201a60
 
 ## お問い合わせ
