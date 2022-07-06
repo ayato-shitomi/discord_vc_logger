@@ -1,6 +1,4 @@
 # 必須ライブラリをインポート
-from dataclasses import replace
-from os import sync
 import discord
 from datetime import datetime, timedelta
 
